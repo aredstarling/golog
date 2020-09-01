@@ -8,7 +8,7 @@ A simple unified logging framework.
 import (
     "os"
 
-    "github.com/sellernomics/golog"
+    "github.com/lyticaa-public/golog"
 )
 
 logger := golog.CreateStdout()
